@@ -1,0 +1,127 @@
+[20:38:18] [Client thread/INFO]: Setting user: Player578
+[20:38:24] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:38:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Nuke Block Mod
+[20:38:36] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:38:37] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[20:38:37] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:38:37] [Thread-7/INFO]: OpenAL initialized.
+[20:38:37] [Sound Library Loader/INFO]: Sound engine started
+[20:38:42] [Client thread/INFO]: Created: 512x512 textures-atlas
+[20:38:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Nuke Block Mod
+[20:38:45] [Client thread/INFO]: SoundSystem shutting down...
+[20:38:45] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[20:38:45] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:38:45] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[20:38:45] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:38:45] [Thread-9/INFO]: OpenAL initialized.
+[20:38:46] [Sound Library Loader/INFO]: Sound engine started
+[20:38:49] [Client thread/INFO]: Created: 512x512 textures-atlas
+[20:38:55] [Client thread/INFO]: Deleting level New World
+[20:38:55] [Client thread/INFO]: Attempt 1...
+[20:39:00] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[20:39:00] [Server thread/INFO]: Generating keypair
+[20:39:01] [Server thread/INFO]: Converting map!
+[20:39:01] [Server thread/INFO]: Scanning folders...
+[20:39:01] [Server thread/INFO]: Total conversion count is 0
+[20:39:02] [Server thread/INFO]: Preparing start region for level 0
+[20:39:03] [Server thread/INFO]: Preparing spawn area: 4%
+[20:39:04] [Server thread/INFO]: Preparing spawn area: 9%
+[20:39:05] [Server thread/INFO]: Preparing spawn area: 15%
+[20:39:06] [Server thread/INFO]: Preparing spawn area: 22%
+[20:39:07] [Server thread/INFO]: Preparing spawn area: 29%
+[20:39:08] [Server thread/INFO]: Preparing spawn area: 37%
+[20:39:09] [Server thread/INFO]: Preparing spawn area: 46%
+[20:39:10] [Server thread/INFO]: Preparing spawn area: 53%
+[20:39:11] [Server thread/INFO]: Preparing spawn area: 61%
+[20:39:12] [Server thread/INFO]: Preparing spawn area: 69%
+[20:39:13] [Server thread/INFO]: Preparing spawn area: 79%
+[20:39:14] [Server thread/INFO]: Preparing spawn area: 89%
+[20:39:15] [Server thread/INFO]: Preparing spawn area: 98%
+[20:39:15] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:39:17] [Server thread/INFO]: Player578[local:E:712ff555] logged in with entity id 111 at (-9.5, 62.0, 128.5)
+[20:39:17] [Server thread/INFO]: Player578 joined the game
+[20:39:32] [Server thread/INFO]: Saving and pausing game...
+[20:39:33] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:39:36] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:39:37] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:39:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5499ms behind, skipping 109 tick(s)
+[20:48:21] [Client thread/INFO]: Setting user: Player343
+[20:48:28] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:48:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Nuke Block Mod
+[20:48:43] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:48:43] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[20:48:43] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:48:43] [Thread-6/INFO]: OpenAL initialized.
+[20:48:43] [Sound Library Loader/INFO]: Sound engine started
+[20:48:49] [Client thread/INFO]: Created: 512x512 textures-atlas
+[20:48:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Nuke Block Mod
+[20:48:51] [Client thread/INFO]: SoundSystem shutting down...
+[20:48:51] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[20:48:51] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:48:51] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[20:48:51] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:48:52] [Thread-8/INFO]: OpenAL initialized.
+[20:48:52] [Sound Library Loader/INFO]: Sound engine started
+[20:48:56] [Client thread/INFO]: Created: 512x512 textures-atlas
+[20:49:08] [Client thread/INFO]: Deleting level New World
+[20:49:08] [Client thread/INFO]: Attempt 1...
+[20:49:08] [Client thread/WARN]: Couldn't delete file .\saves\New World\region\r.-1.-1.mca
+[20:49:08] [Client thread/WARN]: Couldn't delete directory .\saves\New World\region
+[20:49:08] [Client thread/WARN]: Unsuccessful in deleting contents.
+[20:49:09] [Client thread/INFO]: Attempt 2...
+[20:49:09] [Client thread/WARN]: Couldn't delete file .\saves\New World\region\r.-1.-1.mca
+[20:49:09] [Client thread/WARN]: Couldn't delete directory .\saves\New World\region
+[20:49:09] [Client thread/WARN]: Unsuccessful in deleting contents.
+[20:49:09] [Client thread/INFO]: Attempt 3...
+[20:49:09] [Client thread/WARN]: Couldn't delete file .\saves\New World\region\r.-1.-1.mca
+[20:49:09] [Client thread/WARN]: Couldn't delete directory .\saves\New World\region
+[20:49:09] [Client thread/WARN]: Unsuccessful in deleting contents.
+[20:49:10] [Client thread/INFO]: Attempt 4...
+[20:49:10] [Client thread/WARN]: Couldn't delete file .\saves\New World\region\r.-1.-1.mca
+[20:49:10] [Client thread/WARN]: Couldn't delete directory .\saves\New World\region
+[20:49:10] [Client thread/WARN]: Unsuccessful in deleting contents.
+[20:49:10] [Client thread/INFO]: Attempt 5...
+[20:49:10] [Client thread/WARN]: Couldn't delete file .\saves\New World\region\r.-1.-1.mca
+[20:49:10] [Client thread/WARN]: Couldn't delete directory .\saves\New World\region
+[20:49:10] [Client thread/WARN]: Unsuccessful in deleting contents.
+[20:49:32] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[20:49:32] [Server thread/INFO]: Generating keypair
+[20:49:32] [Server thread/INFO]: Converting map!
+[20:49:32] [Server thread/INFO]: Scanning folders...
+[20:49:32] [Server thread/INFO]: Total conversion count is 0
+[20:49:34] [Server thread/INFO]: Preparing start region for level 0
+[20:49:35] [Server thread/INFO]: Preparing spawn area: 4%
+[20:49:36] [Server thread/INFO]: Preparing spawn area: 7%
+[20:49:37] [Server thread/INFO]: Preparing spawn area: 12%
+[20:49:38] [Server thread/INFO]: Preparing spawn area: 16%
+[20:49:39] [Server thread/INFO]: Preparing spawn area: 21%
+[20:49:40] [Server thread/INFO]: Preparing spawn area: 26%
+[20:49:41] [Server thread/INFO]: Preparing spawn area: 32%
+[20:49:42] [Server thread/INFO]: Preparing spawn area: 39%
+[20:49:43] [Server thread/INFO]: Preparing spawn area: 45%
+[20:49:44] [Server thread/INFO]: Preparing spawn area: 51%
+[20:49:45] [Server thread/INFO]: Preparing spawn area: 57%
+[20:49:46] [Server thread/INFO]: Preparing spawn area: 63%
+[20:49:47] [Server thread/INFO]: Preparing spawn area: 69%
+[20:49:48] [Server thread/INFO]: Preparing spawn area: 77%
+[20:49:49] [Server thread/INFO]: Preparing spawn area: 84%
+[20:49:50] [Server thread/INFO]: Preparing spawn area: 91%
+[20:49:51] [Server thread/INFO]: Preparing spawn area: 98%
+[20:49:52] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:49:53] [Server thread/INFO]: Player343[local:E:1e155785] logged in with entity id 135 at (1.5, 65.0, 237.5)
+[20:49:53] [Server thread/INFO]: Player343 joined the game
+[20:49:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2237ms behind, skipping 44 tick(s)
+[20:50:16] [Server thread/INFO]: Player343 has just earned the achievement [Taking Inventory]
+[20:50:16] [Client thread/INFO]: [CHAT] Player343 has just earned the achievement [Taking Inventory]
+[20:50:44] [Server thread/INFO]: Saving and pausing game...
+[20:50:44] [Server thread/INFO]: Saving chunks for level 'fred'/Overworld
+[20:50:44] [Server thread/INFO]: Saving chunks for level 'fred'/Nether
+[20:50:44] [Server thread/INFO]: Saving chunks for level 'fred'/The End
+[20:50:46] [Server thread/INFO]: Stopping server
+[20:50:46] [Server thread/INFO]: Saving players
+[20:50:46] [Server thread/INFO]: Saving worlds
+[20:50:46] [Server thread/INFO]: Saving chunks for level 'fred'/Overworld
+[20:50:46] [Server thread/INFO]: Saving chunks for level 'fred'/Nether
+[20:50:46] [Server thread/INFO]: Saving chunks for level 'fred'/The End
+[20:50:58] [Client thread/INFO]: Deleting level fred
+[20:50:58] [Client thread/INFO]: Attempt 1...

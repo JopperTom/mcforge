@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nukeblockmod",
+  "name": "Nuke Block Mod",
+  "description": "Mod to add a block with a nuke symbol.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["GeekForJesus"],
+  "credits": "The dad of wagstar_t10",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

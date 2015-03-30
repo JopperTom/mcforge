@@ -1,0 +1,41 @@
+****************************
+ Powered By MCP:             
+ http://mcp.ocean-labs.de/   
+ Searge, ProfMobius, Fesh0r, 
+ R4wk, ZeuX, IngisKahn, bspkrs
+ MCP Data version : snapshot_nodoc_20141130
+****************************
+:extractMcpData UP-TO-DATE
+:getVersionJson
+:extractUserDev UP-TO-DATE
+:genSrgs SKIPPED
+:extractNatives UP-TO-DATE
+:copyNativesLegacy UP-TO-DATE
+:getAssetsIndex
+:getAssets
+:makeStart
+:downloadMcpTools SKIPPED
+:downloadClient SKIPPED
+:downloadServer SKIPPED
+:mergeJars SKIPPED
+:deobfuscateJar
+Applying SpecialSource...
+Applying Exceptor...
+:decompile SKIPPED
+:processSources
+Injecting fml files
+Applying fml patches
+Applying forge patches
+:remapJar SKIPPED
+:extractMinecraftSrc SKIPPED
+:recompMinecraft SKIPPED
+:repackMinecraft SKIPPED
+:setupDecompWorkspace
+:ideaModule
+:ideaProject
+:ideaWorkspace
+:idea
+
+BUILD SUCCESSFUL
+
+Total time: 4 mins 32.913 secs
